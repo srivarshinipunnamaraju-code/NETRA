@@ -76,7 +76,10 @@ nav a :hover{
     border-radius: 50%;
 
 }#clock{
-    color: aliceblue;
-    font-family: monospace;
+    color: rgb(241, 134, 80);
+    font-family: 'Courier New', Courier, monospace;
     margin-left: 10px;
-}
+ } 
+ 
+ 
+ /* git brach M main */ 
